@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitSmart.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd19fbaf77b82ef9fb8a4bd9dfe576126ea68013")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ead81b24d7cd265bbbc03b6681d9f5a008ab99c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitSmart.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitSmart.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
