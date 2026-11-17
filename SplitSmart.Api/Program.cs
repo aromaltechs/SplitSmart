@@ -14,10 +14,10 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-app.UseHttpsRedirection();
+app.UseHttpsRedirection(); //send all http requests to https
 
-app.UseAuthorization();
+app.UseAuthorization();  //add authorization middleware to the request pipeline
 
-app.MapControllers();
+app.MapControllers();  // request will be routed to the appropriate controller
 
-app.Run();
+app.Run();  // run the application
